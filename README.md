@@ -1,3 +1,11 @@
+<h2 align="left">Details about me</h2>
+
+###
+
+<h3 align="left">- Yuki<br>- FullStack Developer<br>- Developer at @YukiStore</h3>
+
+###
+
 <h2 align="center">Entre um push e outro, tentando lembrar de dormir.</h2>
 
 ###
@@ -40,5 +48,9 @@
   <img src="https://streak-stats.demolab.com?user=ByAntthony&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByAntthony&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ByAntthony/ByAntthony/output/snake.svg" alt="Snake animation" />
 
 ###
