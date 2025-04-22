@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">- Yuki<br>- FullStack Developer<br>- Developer at @YukiStore</h3>
+<h3 align="left">- Yuki<br>- FullStack Developer<br>- Developer at @YukiStudio</h3>
 
 ###
 
